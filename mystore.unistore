@@ -18,7 +18,7 @@
       "SimonLED.3dsx": [
         {
           "type": "downloadFile",
-          "file": "https://github.com/vini642/3DS-Homebrew/blob/main/SimonLED.3dsx",
+          "file": "https://github.com/vini642/3DS-Homebrew/raw/refs/heads/main/SimonLED.3dsx",
           "output": "%3DSX%/myapp.3dsx"
         }
       ]
