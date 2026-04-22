@@ -6,7 +6,7 @@
     "file": "store.unistore",
     "url": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/store.unistore",
     "version": 3,
-    "revision": 2,
+    "revision": 3,
     "sheet": "icons.t3x",
     "sheetURL": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/icons.t3x"
   },
