@@ -1,0 +1,27 @@
+{
+  "storeInfo": {
+    "title": "Nova Doodads",
+    "author": "Nova",
+    "description": "3DS Doodads i made",
+    "version": 1
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "Simon LED",
+        "author": "Nova",
+        "description": "Simon Saids using only the Notification LED",
+        "version": "v1.0",
+        "category": ["utility"],
+        "console": ["3DS"]
+      },
+      "SimonLED.3dsx": [
+        {
+          "type": "downloadFile",
+          "file": "https://github.com/vini642/3DS-Homebrew/blob/main/SimonLED.3dsx",
+          "output": "%3DSX%/myapp.3dsx"
+        }
+      ]
+    }
+  ]
+}
