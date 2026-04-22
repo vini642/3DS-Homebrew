@@ -16,7 +16,7 @@
         "title": "Simon LED",
         "author": "Nova",
         "description": "simon saids using the notification LED",
-        "category": ["utility"],
+        "category": ["games"],
         "console": ["3DS"],
         "version": "v1.0",
         "icon_index": 0,
