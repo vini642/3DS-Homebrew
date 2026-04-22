@@ -3,9 +3,8 @@
     "title": "Nova Doodads",
     "author": "Nova (formerly Vini)",
     "description": "3DS Doodads i made",
-    "file": "nova-doodads.unistore",
-    "url": "https://YOUR_URL_HERE/nova-doodads.unistore",
-    "infoURL": "https://YOUR_URL_HERE/info.json",
+    "file": "store.unistore",
+    "url": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/store.unistore",
     "version": 3,
     "revision": 1
   },
@@ -22,7 +21,7 @@
       "SimonLED.3dsx": [
         {
           "type": "downloadFile",
-          "file": "https://YOUR_URL_HERE/MyFirstDoodad.3dsx",
+          "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/SimonLED.3dsx",
           "output": "%3DSX%/MyFirstDoodad.3dsx"
         }
       ]
