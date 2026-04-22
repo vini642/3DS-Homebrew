@@ -3,23 +3,27 @@
     "title": "Nova Doodads",
     "author": "Nova",
     "description": "3DS Doodads i made",
-    "version": 1
+    "url": "https://github.com/vini642/3DS-Homebrew/raw/refs/heads/main/mystore.unistore",
+    "file": "mystore.unistore",
+    "revision": 1,
+    "version": 3
   },
   "storeContent": [
     {
       "info": {
         "title": "Simon LED",
         "author": "Nova",
-        "description": "Simon Saids using only the Notification LED",
+        "description": "Simon Says using only the Notification LED",
         "version": "v1.0",
         "category": ["utility"],
-        "console": ["3DS"]
+        "console": ["3DS"],
+        "last_updated": "2026-04-22"
       },
       "SimonLED.3dsx": [
         {
           "type": "downloadFile",
           "file": "https://github.com/vini642/3DS-Homebrew/raw/refs/heads/main/SimonLED.3dsx",
-          "output": "%3DSX%/myapp.3dsx"
+          "output": "%3DSX%/SimonLED.3dsx"
         }
       ]
     }
