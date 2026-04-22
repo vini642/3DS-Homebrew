@@ -24,7 +24,7 @@
           "type": "downloadFile",
           "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/SimonLED.3dsx",
           "output": "%3DSX%/SimonLED.3dsx"
-        }
+        },
         {
           "type": "icon",
           "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/simonled.png",
