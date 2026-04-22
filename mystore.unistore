@@ -28,7 +28,7 @@
         {
           "type": "icon",
           "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/simonled.png",
-          "output": "SimonLED.png"
+          "output": "simonled.png"
         }
       ]
     }
