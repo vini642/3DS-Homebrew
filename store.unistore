@@ -6,7 +6,9 @@
     "file": "store.unistore",
     "url": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/store.unistore",
     "version": 3,
-    "revision": 1
+    "revision": 1,
+    "sheet": "icons.t3x",
+    "sheetURL": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/icons.t3x"
   },
   "storeContent": [
     {
@@ -16,7 +18,9 @@
         "description": "simon saids using the notification LED",
         "category": ["utility"],
         "console": ["3DS"],
-        "version": "v1.0"
+        "version": "v1.0",
+        "icon_index": 0,
+        "sheet_index": 0
       },
       "SimonLED.3dsx": [
         {
