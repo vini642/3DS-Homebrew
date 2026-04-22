@@ -17,7 +17,8 @@
         "version": "v1.0",
         "category": ["utility"],
         "console": ["3DS"],
-        "last_updated": "2026-04-22"
+        "last_updated": "2026-04-22",
+        "icon": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/simonled.png"
       },
       "SimonLED.3dsx": [
         {
