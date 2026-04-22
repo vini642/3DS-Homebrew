@@ -1,0 +1,31 @@
+{
+  "storeInfo": {
+    "title": "Nova Doodads",
+    "author": "Nova (formerly Vini)",
+    "description": "3DS Doodads i made",
+    "file": "nova-doodads.unistore",
+    "url": "https://YOUR_URL_HERE/nova-doodads.unistore",
+    "infoURL": "https://YOUR_URL_HERE/info.json",
+    "version": 3,
+    "revision": 1
+  },
+  "storeContent": [
+    {
+      "info": {
+        "title": "Simon LED",
+        "author": "Nova",
+        "description": "simon saids using the notification LED",
+        "category": ["utility"],
+        "console": ["3DS"],
+        "version": "v1.0"
+      },
+      "SimonLED.3dsx": [
+        {
+          "type": "downloadFile",
+          "file": "https://YOUR_URL_HERE/MyFirstDoodad.3dsx",
+          "output": "%3DSX%/MyFirstDoodad.3dsx"
+        }
+      ]
+    }
+  ]
+}
