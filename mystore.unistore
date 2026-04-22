@@ -4,8 +4,8 @@
     "author": "Nova",
     "description": "3DS Doodads i made",
     "url": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/mystore.unistore",
-    "file": "mystore.unistore",
-    "revision": 4,
+    "file": "store.unistore",
+    "revision": 1,
     "version": 3
   },
   "storeContent": [
@@ -17,18 +17,13 @@
         "version": "v1.0",
         "category": ["utility"],
         "console": ["3DS"],
-        "last_updated": "2026-04-22",
+        "last_updated": "2026-04-22"
       },
       "SimonLED.3dsx": [
         {
           "type": "downloadFile",
           "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/SimonLED.3dsx",
           "output": "%3DSX%/SimonLED.3dsx"
-        },
-        {
-          "type": "icon",
-          "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/simonled.png",
-          "output": "simonled.png"
         }
       ]
     }
