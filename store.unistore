@@ -32,20 +32,20 @@
     },
     {
       "info": {
-        "title": "Placeholder",
+        "title": "Octave Test",
         "author": "Nova",
-        "description": "Placeholder for future app",
+        "description": "a simple Test made in octave",
         "category": ["games"],
         "console": ["3DS"],
         "version": "v1.0",
         "icon_index": 0,
         "sheet_index": 0
       },
-      "SimonLED.3dsx": [
+      "game.3dsx": [
         {
           "type": "downloadFile",
-          "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/SimonLED.3dsx",
-          "output": "%3DSX%/SimonLED.3dsx"
+          "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/game.3dsx",
+          "output": "%3DSX%/game.3dsx"
         }
       ]
     },
