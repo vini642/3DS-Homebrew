@@ -6,7 +6,7 @@
     "file": "store.unistore",
     "url": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/store.unistore",
     "version": 3,
-    "revision": 5,
+    "revision": 6,
     "sheet": "icons.t3x",
     "sheetURL": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/icons.t3x"
   },
@@ -38,7 +38,7 @@
         "category": ["games"],
         "console": ["3DS"],
         "version": "v1.0",
-        "icon_index": 0,
+        "icon_index": 1,
         "sheet_index": 0
       },
       "game.3dsx": [
