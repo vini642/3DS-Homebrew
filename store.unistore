@@ -6,7 +6,7 @@
     "file": "store.unistore",
     "url": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/store.unistore",
     "version": 3,
-    "revision": 8,
+    "revision": 9,
     "sheet": "icons.t3x",
     "sheetURL": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/icons.t3x"
   },
@@ -67,6 +67,6 @@
           "output": "%3DSX%/odyssey_3ds.3dsx"
         }
       ]
-    },
+    }
   ]
 }
