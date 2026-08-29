@@ -48,6 +48,25 @@
           "output": "%3DSX%/game.3dsx"
         }
       ]
-    }
+    },
+    {
+      "info": {
+        "title": "Magnavox Today 3DS!",
+        "author": "Nova",
+        "description": "a little emulator i vibecoded",
+        "category": ["emulators"],
+        "console": ["3DS"],
+        "version": "v1.0",
+        "icon_index": 2,
+        "sheet_index": 0
+      },
+      "odyssey_3ds.3dsx": [
+        {
+          "type": "downloadFile",
+          "file": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/odyssey_3ds.3dsx",
+          "output": "%3DSX%/odyssey_3ds.3dsx"
+        }
+      ]
+    },
   ]
 }
