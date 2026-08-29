@@ -5,8 +5,8 @@
     "description": "3DS Doodads i made",
     "file": "store.unistore",
     "url": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/store.unistore",
-    "version": 4,
-    "revision": 7,
+    "version": 3,
+    "revision": 8,
     "sheet": "icons.t3x",
     "sheetURL": "https://raw.githubusercontent.com/vini642/3DS-Homebrew/main/icons.t3x"
   },
@@ -57,7 +57,7 @@
         "category": ["emulators"],
         "console": ["3DS"],
         "version": "v1.0",
-        "icon_index": 2,
+        "icon_index": 0,
         "sheet_index": 0
       },
       "odyssey_3ds.3dsx": [
